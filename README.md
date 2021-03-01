@@ -1,3 +1,3 @@
 # infovis
 
-[Cheatsheet Markdown](github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Cheatsheet Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
