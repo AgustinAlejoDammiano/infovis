@@ -1,11 +1,11 @@
 const url_prefix = "pages/"
-let makeovers = [
+let pages = [
     {'title': "Makeover Mondays - Week 9", "url": "makeoverMondayWeek9.html"},
 ]
 
 d3.select("#pages-list")
     .selectAll("li")
-    .data(makeovers)
+    .data(pages)
     .enter()
     .append("li")
     .append("a")
