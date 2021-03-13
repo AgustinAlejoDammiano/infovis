@@ -1,0 +1,20 @@
+protovis
+index chart
+stacked chart
+small multiples
+exploratory data analysis
+steam-and-leaf plot
+splom
+parallel coordinates
+flow map
+choropleth map
+graduated symbol map
+dorling cartogram
+node-link diagram
+dendogram
+adjancency diagram
+enclosure diagram
+squarified
+treemap layout
+force-directed layout
+arc diagram
