@@ -4,11 +4,17 @@
         <title>InfoVis - Agustin Dammiano</title>
     </head>
     <body>  
+        <div id="header"></div>
         <div>
             <h1>Pages</h1>
             <ul id="pages-list">
             </ul>
         </div>
+        <script>
+            $(function () {
+                $("#header").load("./components/header.html");
+            });
+        </script>
     </body>
 
 
