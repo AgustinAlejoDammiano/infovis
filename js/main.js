@@ -2,6 +2,7 @@ const url_prefix = "pages/"
 let pages = [
     {'title': "Makeover Mondays - Week 9", "url": "makeoverMondayWeek9.html"},
     {'title': "Makeover Mondays - Week 11", "url": "makeoverMondayWeek11.html"},
+    {'title': "Argentina Población", "url": "argentinaPoblacion.html"},
 ]
 
 d3.select("#pages-list")
